@@ -1,14 +1,14 @@
 from telethon import events
 import phoenix.client
 client = phoenix.client.client
-@events.register(events.NewMessage(outgoing=True, pattern=".help"))
+@events.register(events.NewMessage(outgoing=True, pattern=".الاوامر"))
 async def help(event):
 	await event.delete()
 	messagelocation = event.to_id
 	await event.client.send_message(messagelocation, ("""
-**USERBOT HELP MENU**
+**قائمة المساعدة**
 		  
-Umumiy modullar: 63
+عدد الاوامر: 63
 <== **Animatsions** ==>
 [01] Help - Help menu — .help
 [02] Bombs - Animation emojise — .bombs
@@ -76,5 +76,5 @@ Umumiy modullar: 63
 [63] Tr - Translator - .tr <language code > <reply message>
 [++] Animation help - .ahelp
 				  		  
-Developer: @programmer_www
+المطور: @I0I0II 
 """))
