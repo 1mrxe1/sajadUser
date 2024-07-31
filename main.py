@@ -1,7 +1,7 @@
 import phoenix.client, phoenix.kick, phoenix.ketdim, phoenix.uzbrun, phoenix.whyrun, phoenix.iloveyou, phoenix.goodnight, phoenix.ahelp, phoenix.konspekt, phoenix.lovelyrun, phoenix.bombs, phoenix.help, phoenix.loading, phoenix.emoji, phoenix.dump, phoenix.sexy, phoenix.type, phoenix.magicrun, phoenix.animation, phoenix.animation2, phoenix.mute, phoenix.fuck, phoenix.rev, phoenix.tr, phoenix.userinfo, phoenix.base64, phoenix.react, phoenix.snow, phoenix.smsbomb, phoenix.rename, phoenix.iptrace, phoenix.spam, phoenix.alive, phoenix.tagall, phoenix.afk, phoenix.timer, phoenix.ping
 import phoenix.allanimations as allanim 
 import os
-#Developer: @programmer_www
+#Developer: @I0I0II 
 
 #Modules
 client = phoenix.client.client
@@ -113,13 +113,14 @@ client.start()
 
 os.system("clear")
 print("""\033[031m
-   ___  __ ______  _____  _______  __   __  _____________  ___  ____  ______
-  / _ \/ // / __ \/ __/ |/ /  _/ |/_/  / / / / __/ __/ _ \/ _ )/ __ \/_  __/
- / ___/ _  / /_/ / _//    // /_>  <   / /_/ /\ \/ _// , _/ _  / /_/ / / /   
-/_/  /_//_/\____/___/_/|_/___/_/|_|   \____/___/___/_/|_/____/\____/ /_/    
-      
-Developer: @programmer_www
-Telegram channel: @phoenix_userbot
+│                                                                           │
+│                   ███████╗██╗███╗   ██╗ █████╗ ██╗                        │
+│                   ██╔════╝██║████╗  ██║██╔══██╗██║                        │
+│                   █████╗  ██║██╔██╗ ██║███████║██║                        │
+│                   ██╔══╝  ██║██║╚██╗██║██╔══██║██║                        │
+│                   ██║     ██║██║ ╚████║██║  ██║███████╗                   │
+│                   ╚═╝     ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝                   │
+Developer: @I0I0II 
 """)
 print("\033[032mStarted")
 
